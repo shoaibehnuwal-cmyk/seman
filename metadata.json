@@ -1,0 +1,6 @@
+{
+  "name": "Fulham — Portfolio & Booking",
+  "description": "Explore the Fulham portfolio. Charges $110–$1,150 USD. Lille Road, SW6 7SX, near West Brompton. WhatsApp +447757660727.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
