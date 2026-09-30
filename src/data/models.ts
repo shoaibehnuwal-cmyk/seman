@@ -30,8 +30,8 @@ export const INITIAL_MODELS: ModelProfile[] = [
     coverImage: '/gallery/fulham-portrait.png',
     gallery: [
       { url: '/gallery/fulham-portrait.png', title: 'Fulham Portfolio — Photo 1', client: 'Fulham' },
-      { url: '/gallery/images (1).jpg', title: 'Fulham Portfolio — Photo 2', client: 'Fulham' },
-      { url: '/gallery/images.jpg', title: 'Fulham Portfolio — Photo 3', client: 'Fulham' },
+      { url: '/gallery/gettyimages-2190851700-170667a.jpg', title: 'Fulham Portfolio — Photo 2', client: 'Fulham' },
+      { url: '/gallery/gettyimages-2190851700-170667a.jpg', title: 'Fulham Portfolio — Photo 3', client: 'Fulham' },
       { url: '/gallery/fulham-outdoor-01.jpg', title: 'Fulham Portfolio — Photo 4', client: 'Fulham' },
       { url: '/gallery/fulham-outdoor-02.jpg', title: 'Fulham Portfolio — Photo 5', client: 'Fulham' },
     ],
