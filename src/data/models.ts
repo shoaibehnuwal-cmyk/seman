@@ -1,11 +1,11 @@
 import { ModelProfile } from '../types/model';
 
-// Import images directly
-import img1 from '../../gallery/Gemini_Generated_Image_zd2gh1zd2gh1zd2g (1).png';
-import img2 from '../../gallery/Gemini_Generated_Image_zd2gh1zd2gh1zd2g (1).jfif';
-import img3 from '../../gallery/Gemini_Generated_Image_zd2gh1zd2gh1zd2g (2).jfif';
-import img4 from '../../gallery/gettyimages-2190851700-170667a.jpg';
-import img5 from '../../gallery/gettyimages-2190851702-170667a.jpg';
+// Unsplash image URLs (high-resolution fashion/portrait placeholders)
+const img1 = 'https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80&w=1000';
+const img2 = 'https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&q=80&w=1000';
+const img3 = 'https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&q=80&w=1000';
+const img4 = 'https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&q=80&w=1000';
+const img5 = 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=1000';
 
 export const INITIAL_MODELS: ModelProfile[] = [
   {
